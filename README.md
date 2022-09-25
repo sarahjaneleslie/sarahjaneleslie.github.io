@@ -17,5 +17,5 @@ Machine learning – and in particular, deep learning – is rapidly opening new
 
 Interested Princeton graduate students from any department should <a href="mailto:sjleslie@princeton.edu">email me</a> with any questions they may have. Princeton post-docs and other researchers are welcome to audit (providing that space permits).
 
-<H3><a href="sarahjaneleslie.github.io/PHI543-sp23">Tentative syllabus for Spring 2023</a></H3>
+<H3><a href="https://sarahjaneleslie.github.io/PHI543-sp23">Tentative syllabus for Spring 2023</a></H3>
 
