@@ -7,7 +7,7 @@ Machine Learning: A Practical Introduction for Humanists and Social Scientists</
 sjleslie@princeton.edu<br>
 www.princeton.edu/leslie</H3>
 
-<H3>Thursdays 10:30-1:20, McGraw Digital Learning Lab (located in the Lewis Library)</H3>
+<H3>Thursdays 10:30-1:20, rm 103 Bendheim House (CSML), 26 Prosect Ave</H3>
 
 <p>Machine learning – and in particular, deep learning – is rapidly opening new horizons for research in the humanities and social sciences. However, scholars in the humanities and social sciences can encounter barriers to learning about such techniques – for example, machine learning courses, especially at the graduate level, often require multivariate calculus, linear algebra and prior coding experience, which students in the humanities and less quantitative social sciences may lack. This course offers a practical introduction to deep learning for graduate students, without assuming knowledge of calculus or other college-level math, or any prior experience with coding. By the end of the course, students will: </p>
 
