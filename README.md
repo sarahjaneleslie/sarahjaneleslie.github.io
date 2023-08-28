@@ -8,6 +8,6 @@ www.princeton.edu/leslie</h3>
 
 <p><b>Graduate course:</b> <a href="/SML543">SML 543 - Machine Learning: A practical introduction for humanists and social scientists</a></p>
 
-<p>Both courses will be offered Spring 2024 and are open to Princeton undergraduates and graduate students respectively. </p>
+<p>Both courses will be offered Spring 2024 and are open to Princeton undergraduates and graduate students respectively. They cover similar content, but are inflected to best serve the interests of the respective populations. </p>
 
 
