@@ -1,5 +1,3 @@
-# sarahjaneleslie.github.io
-
 
 <H1>PHI 543/SML 543<br>
 Machine Learning: A Practical Introduction for Humanists and Social Scientists</H1>
