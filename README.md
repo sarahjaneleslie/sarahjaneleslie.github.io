@@ -1,5 +1,5 @@
 
-<h1>Artifical Intelligence Courses<br></h1>
+<h1>Artificial Intelligence Courses<br></h1>
 <h3>Sarah-Jane Leslie<br>
 sjleslie@princeton.edu<br>
 www.princeton.edu/leslie</h3>
