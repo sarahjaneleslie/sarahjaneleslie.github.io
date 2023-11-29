@@ -2,7 +2,7 @@
 <h1>Artificial Intelligence Courses<br></h1>
 <h3>Sarah-Jane Leslie<br>
 sjleslie@princeton.edu<br>
-<a href="sarahjaneleslie.org">sarahjaneleslie.org</a><br>
+<a href="sarahjaneleslie.org">sarahjaneleslie.org</a><br><br>
 
 <p><b>Undergraduate course:</b> <a href="/SML354">SML 354 - Artificial Intelligence: A hands-on introduction from basics to ChatGPT</a></p>
 
