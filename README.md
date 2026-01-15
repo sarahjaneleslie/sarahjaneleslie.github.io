@@ -8,6 +8,6 @@ sjleslie@princeton.edu<br>
 
 <p><b>Graduate course:</b> <a href="/SML543">SML 543 - Machine Learning: A practical introduction for humanists and social scientists</a></p>
 
-<p>Both courses will be offered Spring 2026 and are open to Princeton undergraduates and graduate students respectively. They share lecture, but 543 students meet separately with the instructor 1 hr per week to discuss additional content. 354 students attend a 50 minute precept each week. </p>
+<p>Both courses will be offered Spring 2026 and are open to Princeton undergraduates and graduate students respectively. They share bi-weekly lectures, but 543 students meet separately with the instructor 1 hr per week to discuss additional content. 354 students attend a 50 minute precept each week. </p>
 
 
